@@ -44,7 +44,7 @@ Now lets create a docker image. For more information on docker, see [here](https
 
 1. **_Optional_** - Sign up [here](https://hub.docker.com/signup)
 
-2. Copy THE FILE TODO@@@@
+2. Copy The `DockerFile` from this repo.
 
 3. To build an image, open `cmd` and run `docker build -t YOUR_DOCKER_HUB_NAME/DOCKER_IMAGE_NAME .`
 
